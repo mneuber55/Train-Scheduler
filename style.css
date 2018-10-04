@@ -1,0 +1,15 @@
+#form-box {
+    border-style: solid;
+}
+
+.card {
+    margin-bottom: 32px;
+}
+
+tr {
+    border-bottom: 1px solid gray;
+}
+
+td {
+    padding: 5px;
+}
